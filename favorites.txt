@@ -2,3 +2,5 @@ soba
 sushi
 ramen
 snacks
+intersteller
+tenet
